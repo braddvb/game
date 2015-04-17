@@ -14,6 +14,8 @@
     <h1>Nieuw resultaat</h1>
   </div>
 
+  <p>Piet<p>
+
   <form method="POST">
     <div class="form-group">
       <label for="exampleInputEmail1">Name</label>
